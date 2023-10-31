@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Matheus Teixeira Mattioli, 22 years old. I'm a computer scientist 🧑‍💻 graduated at Universidade Federal de São Carlos (UFSCar) in Brazil.  
-Currently <!-- working as Cloud Software Engineer ☁️ at [luizalabs](https://www.magazineluiza.com.br/) and --> doing master degree 🎓 in Computer Vision.
+Currently working as Cloud Software Engineer ☁️ at [luizalabs](https://www.magazineluiza.com.br/) and doing master degree 🎓 in Computer Vision.
 
 Other interests:
  - Heuristics and metaheuristics;
