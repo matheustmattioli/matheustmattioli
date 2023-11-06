@@ -25,11 +25,10 @@ My name is Matheus Teixeira Mattioli, 22 years old. I'm a computer scientist �
 Currently working as Cloud Software Engineer ☁️ at [luizalabs](https://www.magazineluiza.com.br/) and doing master degree 🎓 in Computer Vision.
 
 Other interests:
- - Heuristics and metaheuristics;
- - IaaS Openstack;
- - Canonical Juju;
- - Machine Learning;
- - Python libraries;
+ - Heuristics and Metaheuristics;
+ - Cloud;
+ - Computer Vision;
+ - Graph Neural Networks;
 
 In free moments I enjoy playing video games 🎮, reading 📖 and spending time with family and friends.  
 
