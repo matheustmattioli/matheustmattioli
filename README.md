@@ -1,7 +1,7 @@
 <h1 align="center">Hello! Welcome to my Github profile 👋 </h1>
 
 <p align="center">
-  <img src="zatanna_hello.gif" alt="Banner">
+  <img src="zatanna-hello-dark.gif" alt="Banner">
 </p>
 
 ## About me 👻
